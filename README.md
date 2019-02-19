@@ -4,7 +4,7 @@
 
 # Aim
 
-Collect senors' data then save them in database to review later.
+Collect sensors' data then save them in database to review later.
 
 # Creator
 
