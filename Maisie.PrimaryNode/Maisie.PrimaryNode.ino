@@ -24,9 +24,9 @@
 #define DEBUG
 
 #ifdef DEBUG
-#define BASE_URL "http://maisie.muntadhar.net/api/marshes/0/data/"
+#define BASE_URL "YOUR_URL_HERE"
 #else
-#define BASE_URL "http://maisie.muntadhar.net/api/marshes/0/data/"
+#define BASE_URL "YOUR_URL_HERE"
 #endif
 #define SSID "Maisie-MasterNode-Setup"
 #define KEY "AryaStark"
