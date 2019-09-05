@@ -312,7 +312,9 @@ void connectToWiFi(String s, String k)
   while (WiFi.status() != WL_CONNECTED)
   {
     delay(500);
+#ifdef DEBUG
     Serial.print(".");
+#endif
     loops++;
 
     if (loops >= 60)
